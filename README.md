@@ -1,4 +1,16 @@
+# 💫 Hi 👋, I'm Riti Rai
+**A passionate AI/ML Engineer **
 
+Email Me 👉 ✉️ **ritirai0612@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:**  AI-Virtual Try On
+- 🌱 **I’m currently learning:** Gen Ai and Agentic Ai
+- 👯 **I’m looking to collaborate on:** AI-Virtual Try On clothese .An AI-powered Virtual Try-On system that allows users to virtually try clothes and accessories using their webcam or uploaded photo.This project combines computer vision, deep learning, and web technologies to create an immersive shopping experience — just like trying outfits in a real store, but online! 💫
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** ritirai0612@gmal.com
+- 😄 **Pronouns:** RITI 
+- ⚡ **Fun fact:** I'm confused and trying to be perfect
+  
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/RitiRai) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/reet_06._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Riti Rai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritirai0612@gmail.com) 
 
