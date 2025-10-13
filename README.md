@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Riti Rai
-**A passionate AI/ML Engineer **
+**A passionate AI/ML Engineer & To be Data Scientist**
 
 Email Me 👉 ✉️ **ritirai0612@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
