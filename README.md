@@ -1,11 +1,11 @@
 # 💫 Hi 👋, I'm Riti Rai
-**A passionate AI/ML Engineer & To be Data Scientist**
+**A passionate AI/ML Engineer **
 
 Email Me 👉 ✉️ **ritirai0612@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:**  AI-Virtual Try On Clothes
-- 🌱 **I’m currently learning:** Gen Ai and Agentic Ai
-- 👯 **I’m looking to collaborate on:** AI-Virtual Try On clothes .An AI-powered Virtual Try-On system that allows users to virtually try clothes and accessories using their webcam or uploaded photo.This project combines computer vision, deep learning, and web technologies to create an immersive shopping experience — just like trying outfits in a real store, but online! 💫
+- 🔭 **I’m currently working on:**  Panchayat AI System
+A smart AI-powered platform designed for village/community management, enabling better communication, issue tracking, and decision-making using intelligent automation.
+- 🌱 **I’m currently learning:** Gen Ai and Agentic Ai💫
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** ritirai0612@gmal.com
 - 😄 **Pronouns:** RITI 
